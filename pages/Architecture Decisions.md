@@ -9,10 +9,7 @@
 	  Stakeholders of your system should be able to comprehend and retrace your decisions.
 	- **Form**
 	  Various options:
-- ADR [Architecture Decision Record](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
-    for every important decision
-- List or table, ordered by importance and consequences or:
-- more detailed in form of separate sections per decision
-  
-  See [Architecture Decisions](https://docs.arc42.org/section-9/) in the
-  arc42 documentation. There you will find links and examples about ADR.
+		- [ADR/Architecture Decision Record](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) for every important decision
+		- List or table, ordered by importance and consequences or:
+		- more detailed in form of separate sections per decision
+		- See [Architecture Decisions](https://docs.arc42.org/section-9/) in the arc42 documentation. There you will find links and examples about ADR.
