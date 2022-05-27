@@ -20,9 +20,7 @@
 	  The top three (max five) quality goals for the architecture whose fulfillment is of highest importance to the major stakeholders. We really mean quality goals for the architecture. Don't confuse them with project goals. They are not necessarily identical.
 	  
 	  Consider this overview of potential topics (based upon the ISO 25010 standard):
-	  ![01_2_iso-25010-topics-EN.png](../assets/01_2_iso-25010-topics-EN_1653656975797_0.png)
-	-
-	- ![Categories of Quality
+	  ![Categories of Quality
 	  Requirements](images/01_2_iso-25010-topics-EN.png)
 	  
 	  ::: formalpara-title
