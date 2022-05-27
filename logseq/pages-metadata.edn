@@ -1,7 +1,7 @@
 [{:block/name "a",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
- {:block/name "arc42-template-en",
+ {:block/name "arc42 template 8.0 en",
   :block/created-at 1653655034403,
   :block/updated-at 1653664246246}
  {:block/name "architecture constraints",
@@ -15,7 +15,7 @@
   :block/updated-at 1653655542509}
  {:block/name "building block view",
   :block/created-at 1653659194594,
-  :block/updated-at 1653664764220}
+  :block/updated-at 1653667034279}
  {:block/name "c",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -30,7 +30,7 @@
   :block/updated-at 1653665024445}
  {:block/name "deployment view",
   :block/created-at 1653661678599,
-  :block/updated-at 1653664937631}
+  :block/updated-at 1653667093877}
  {:block/name "doing",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -75,7 +75,7 @@
   :block/updated-at 1653664454976}
  {:block/name "system scope and context",
   :block/created-at 1653658034174,
-  :block/updated-at 1653664377075}
+  :block/updated-at 1653666988967}
  {:block/name "todo",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
