@@ -21,27 +21,16 @@
 	  Alternatively (or additionally) you can use a table. The title of the table is the name of your system, the three columns contain the name of the communication partner, the inputs, and the outputs.
 	- **<Diagram or Table>**
 	- **<optionally: Explanation of external domain interfaces>**
-- ## Technical Context {#_technical_context}
-    
-  ::: formalpara-title
-  **Contents**
-  :::
-    
-  Technical interfaces (channels and transmission media) linking your
-  system to its environment. In addition a mapping of domain specific
-  input/output to the channels, i.e. an explanation with I/O uses which
-  channel.
-    
-  ::: formalpara-title
-  **Motivation**
-  :::
-    
+- ## Technical Context
+- **Contents**
+  Technical interfaces (channels and transmission media) linking your system to its environment. In addition a mapping of domain specific input/output to the channels, i.e. an explanation with I/O uses which channel.
+- **Motivation**
   Many stakeholders make architectural decision based on the technical
   interfaces between the system and its context. Especially infrastructure
   or hardware designers decide these technical interfaces.
     
   ::: formalpara-title
-  **Form**
+- **Form**
   :::
     
   E.g. UML deployment diagram describing channels to neighboring systems,
