@@ -17,40 +17,7 @@
   concepts. For documentation of your own system you use better the
   *plain* version.
   ```
-- [[Introduction and Goals]]
-  
-  Describes the relevant requirements and the driving forces that software
-  architects and development team must consider. These include
-# Architecture Constraints {#section-architecture-constraints}
-
-::: formalpara-title
-**Contents**
-:::
-
-Any requirement that constraints software architects in their freedom of
-design and implementation decisions or decision about the development
-process. These constraints sometimes go beyond individual systems and
-are valid for whole organizations and companies.
-
-::: formalpara-title
-**Motivation**
-:::
-
-Architects should know exactly where they are free in their design
-decisions and where they must adhere to constraints. Constraints must
-always be dealt with; they may be negotiable, though.
-
-::: formalpara-title
-**Form**
-:::
-
-Simple tables of constraints with explanations. If needed you can
-subdivide them into technical constraints, organizational and political
-constraints and conventions (e.g. programming or versioning guidelines,
-documentation or naming conventions)
-
-See [Architecture Constraints](https://docs.arc42.org/section-2/) in the
-arc42 documentation.
+- # [[Introduction and Goals]]
 # System Scope and Context {#section-system-scope-and-context}
 
 ::: formalpara-title
