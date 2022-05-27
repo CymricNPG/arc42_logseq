@@ -37,23 +37,21 @@
 	- :   *\<Description of contained building block (black boxes)>*
 - Important Interfaces
 	- :   *\<Description of important interfaces>*
-	  
-	  Insert your explanations of black boxes from level 1:
-	  
-	  If you use tabular form you will only describe your black boxes with
-	  name and responsibility according to the following schema:
-	  
-	  +-----------------------+-----------------------------------------------+
-	  | **Name**              | **Responsibility**                            |
-	  +=======================+===============================================+
-	  | *\<black box 1>*      |  *\<Text>*                                    |
-	  +-----------------------+-----------------------------------------------+
-	  | *\<black box 2>*      |  *\<Text>*                                    |
-	  +-----------------------+-----------------------------------------------+
-	  
-	  If you use a list of black box descriptions then you fill in a separate
-	  black box template for every important building block . Its headline is
-	  the name of the black box.
+- Insert your explanations of black boxes from level 1:
+  
+  If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:
+  
+  
+  | **Name**              | **Responsibility**                            |
+  |
+  | *\<black box 1>*      |  *\<Text>*                                    |
+  +-----------------------+-----------------------------------------------+
+  | *\<black box 2>*      |  *\<Text>*                                    |
+  +-----------------------+-----------------------------------------------+
+  
+  If you use a list of black box descriptions then you fill in a separate
+  black box template for every important building block . Its headline is
+  the name of the black box.
 ### \<Name black box 1> {#__name_black_box_1}
 
 Here you describe \<black box 1> according the the following black box
