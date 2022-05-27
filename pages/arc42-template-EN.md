@@ -1,3 +1,4 @@
+- ![Logo](images/arc42-logo.png)
 - **About arc42**
   
   arc42, the Template for documentation of software and system
