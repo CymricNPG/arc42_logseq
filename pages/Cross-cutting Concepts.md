@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Content**
 	  This section describes overall, principal regulations and solution ideas that are relevant in multiple parts (= cross-cutting) of your system. Such concepts are often related to multiple building blocks. They can include many different topics, such as
 		- models, especially domain models
