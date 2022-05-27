@@ -7,4 +7,4 @@
 	  Simple tables of constraints with explanations. If needed you can subdivide them into technical constraints, organizational and political constraints and conventions (e.g. programming or versioning guidelines, documentation or naming conventions)
 	  
 	  See [Architecture Constraints](https://docs.arc42.org/section-2/) in the arc42 documentation.
--
+- TODO Architecture Constraints
