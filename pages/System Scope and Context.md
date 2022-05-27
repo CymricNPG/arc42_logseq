@@ -20,7 +20,7 @@
 	    
 	  Alternatively (or additionally) you can use a table. The title of the table is the name of your system, the three columns contain the name of the communication partner, the inputs, and the outputs.
 	- **<Diagram or Table>**
-	   **<optionally: Explanation of external domain interfaces>**
+	- **<optionally: Explanation of external domain interfaces>**
 - ## Technical Context {#_technical_context}
     
   ::: formalpara-title
