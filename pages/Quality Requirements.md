@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Content**
 	  This section contains all quality requirements as quality tree with scenarios. The most important ones have already been described in section 1.2. (quality goals)
 	  
@@ -8,18 +9,20 @@
 	  
 	  See [Quality Requirements](https://docs.arc42.org/section-10/) in the arc42 documentation.
 - ## Quality Tree
-- ==Hints==
-	- **Content**
-	  The quality tree (as defined in ATAM -- Architecture Tradeoff Analysis Method) with quality/evaluation scenarios as leafs.
-	- **Motivation**
-	  The tree structure with priorities provides an overview for a sometimes large number of quality requirements.
-	- **Form**
-	  The quality tree is a high-level overview of the quality goals and requirements:
-		- tree-like refinement of the term \"quality\". Use \"quality\" or \"usefulness\" as a root
-		- a mind map with quality categories as main branches
-		- In any case the tree should include links to the scenarios of the following section.
+	- ==Hints==
+	  collapsed:: true
+		- **Content**
+		  The quality tree (as defined in ATAM -- Architecture Tradeoff Analysis Method) with quality/evaluation scenarios as leafs.
+		- **Motivation**
+		  The tree structure with priorities provides an overview for a sometimes large number of quality requirements.
+		- **Form**
+		  The quality tree is a high-level overview of the quality goals and requirements:
+			- tree-like refinement of the term \"quality\". Use \"quality\" or \"usefulness\" as a root
+			- a mind map with quality categories as main branches
+			- In any case the tree should include links to the scenarios of the following section.
 - ## Quality Scenarios
 	- ==Hints==
+	  collapsed:: true
 		- **Contents**
 		  Concretization of (sometimes vague or implicit) quality requirements using (quality) scenarios.
 		  
