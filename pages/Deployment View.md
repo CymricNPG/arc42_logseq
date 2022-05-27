@@ -17,7 +17,6 @@
 	  
 	  See [Deployment View](https://docs.arc42.org/section-7/) in the arc42 documentation.
 - ## Infrastructure Level 1
-  
   Describe (usually in a combination of diagrams, tables, and text):
 	- distribution of a system to multiple locations, environments,  computers, processors, .., as well as physical connections between  them
 	- important justifications or motivations for this deployment  structure
@@ -31,15 +30,13 @@
 			- :   *\<explanation in text form>*
 		- Mapping of Building Blocks to Infrastructure
 			- :   *\<description of the mapping>*
-## Infrastructure Level 2 {#_infrastructure_level_2}
-
-Here you can include the internal structure of (some) infrastructure
-elements from level 1.
-
-Please copy the structure from level 1 for each selected element.
-### *\<Infrastructure Element 1>* {#__emphasis_infrastructure_element_1_emphasis}
-
-*\<diagram + explanation>*
+- ## Infrastructure Level 2
+  Here you can include the internal structure of (some) infrastructure elements from level 1.
+  
+  Please copy the structure from level 1 for each selected element.
+- ### *\<Infrastructure Element 1>*
+  
+  *\<diagram + explanation>*
 ### *\<Infrastructure Element 2>* {#__emphasis_infrastructure_element_2_emphasis}
 
 *\<diagram + explanation>*
