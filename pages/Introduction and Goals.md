@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- Describes the relevant requirements and the driving forces that software architects and development team must consider. These include
 		- underlying business goals,
 		- essential features,
@@ -13,6 +14,7 @@
   :END:
 - ## Requirements Overview
 	- ==Hints==
+	  collapsed:: true
 		- **Contents**
 		  Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Link to (hopefully existing) requirements documents (with version number and information where to find it).
 		- **Motivation**
@@ -26,6 +28,7 @@
 	- TODO Requirements Overview
 - ## Quality Goals
 	- ==Hints==
+	  collapsed:: true
 		- **Contents**
 		  The top three (max five) quality goals for the architecture whose fulfillment is of highest importance to the major stakeholders. We really mean quality goals for the architecture. Don't confuse them with project goals. They are not necessarily identical.
 		  
