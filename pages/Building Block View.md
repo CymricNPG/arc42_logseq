@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Content**
 	  The building block view shows the static decomposition of the system into building blocks (modules, components, subsystems, classes, interfaces, packages, libraries, frameworks, layers, partitions, tiers,
 	  functions, macros, operations, datas structures, ...) as well as their dependencies (relationships, associations, ...)
@@ -23,6 +24,7 @@
 - TODO Building Block View
 - ## Whitebox Overall System
 	- ==Hints==
+	  collapsed:: true
 	  Here you describe the decomposition of the overall system using the following white box template. It contains
 		- an overview diagram
 		- a motivation for the decomposition
@@ -82,9 +84,10 @@
 	- ### \<Name interface m> {#__name_interface_m}
 - ## Level 2
 	- ==Hints==
-	  Here you can specify the inner structure of (some) building blocks from level 1 as white boxes.
-	  
-	  You have to decide which building blocks of your system are important enough to justify such a detailed description. Please prefer relevance over completeness. Specify important, surprising, risky, complex or volatile building blocks. Leave out normal, simple, boring or standardized parts of your system
+	  collapsed:: true
+		- Here you can specify the inner structure of (some) building blocks from level 1 as white boxes.
+		  
+		  You have to decide which building blocks of your system are important enough to justify such a detailed description. Please prefer relevance over completeness. Specify important, surprising, risky, complex or volatile building blocks. Leave out normal, simple, boring or standardized parts of your system
 	- ### White Box *\<building block 1>*
 	  
 	  ...describes the internal structure of *building block 1*.
@@ -100,9 +103,10 @@
 	  *\<white box template>*
 - ## Level 3
 	- ==Hints==
-	  Here you can specify the inner structure of (some) building blocks from level 2 as white boxes.
-	  
-	  When you need more detailed levels of your architecture please copy this part of arc42 for additional levels.
+	  collapsed:: true
+		- Here you can specify the inner structure of (some) building blocks from level 2 as white boxes.
+		  
+		  When you need more detailed levels of your architecture please copy this part of arc42 for additional levels.
 	- ### White Box \<\_building block x.1\_\>
 	  
 	  Specifies the internal structure of *building block x.1*.

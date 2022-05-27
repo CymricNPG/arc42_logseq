@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Content**
 	  The deployment view describes:
 		- 1.  technical infrastructure used to execute your system, with   infrastructure elements like geographical locations, environments,  computers, processors, channels and net topologies as well as other  infrastructure elements and
@@ -36,9 +37,10 @@
 		- *\<description of the mapping>*
 - ## Infrastructure Level 2
 	- ==Hints==
-	  Here you can include the internal structure of (some) infrastructure elements from level 1.
-	  
-	  Please copy the structure from level 1 for each selected element.
+	  collapsed:: true
+		- Here you can include the internal structure of (some) infrastructure elements from level 1.
+		  
+		  Please copy the structure from level 1 for each selected element.
 	- ### *\<Infrastructure Element 1>*
 	  
 	  *\<diagram + explanation>*

@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Contents**
 	  A list of identified technical risks or technical debts, ordered by priority
 	- **Motivation**

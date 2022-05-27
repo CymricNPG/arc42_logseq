@@ -1,4 +1,5 @@
 - Hints
+  collapsed:: true
 	- **Contents**
 	  Important, expensive, large scale or risky architecture decisions including rationals. With \"decisions\" we mean selecting one alternative based on given criteria.
 	  
