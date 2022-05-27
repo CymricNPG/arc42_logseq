@@ -10,6 +10,7 @@
 		- Potentially more columns in case you need translations.
 		  
 		  See [Glossary](https://docs.arc42.org/section-12/) in the arc42documentation.
+- TODO Glossary
 - | Term                  | Definition                                    |
   |-----------------|--------------------------------|
   | *\<Term-1>*           | *\<definition-1>*                             |

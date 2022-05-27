@@ -9,3 +9,4 @@
 	  List of risks and/or technical debts, probably including suggested measures to minimize, mitigate or avoid risks or reduce technical debts.
 	  
 	  See [Risks and Technical Debt](https://docs.arc42.org/section-11/) in the arc42 documentation.
+- TODO Risks and Technical Depts
