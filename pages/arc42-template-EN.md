@@ -27,23 +27,22 @@
 - # [[Architecture Decisions]]
 - # [[Quality Requirements]]
 - # [[Risks and Technical Debts]]
-# Glossary {#section-glossary}
-
-::: formalpara-title
-**Contents**
-:::
-
-The most important domain and technical terms that your stakeholders use
-when discussing the system.
-
-You can also see the glossary as source for translations if you work in
-multi-language teams.
-
-::: formalpara-title
-**Motivation**
-:::
-
-You should clearly define your terms, so that all stakeholders
+- Glossary
+  ::: formalpara-title
+  **Contents**
+  :::
+  
+  The most important domain and technical terms that your stakeholders use
+  when discussing the system.
+  
+  You can also see the glossary as source for translations if you work in
+  multi-language teams.
+  
+  ::: formalpara-title
+  **Motivation**
+  :::
+  
+  You should clearly define your terms, so that all stakeholders
 - have an identical understanding of these terms
 - do not use synonyms and homonyms
   
