@@ -21,10 +21,8 @@
 	- state machines
 	- ...
 	  See [Runtime View](https://docs.arc42.org/section-6/) in the arc42 documentation.
-## \<Runtime Scenario 1> {#__runtime_scenario_1}
+- ## \<Runtime Scenario 1>
 - *\<insert runtime diagram or textual description of the scenario>*
-- *\<insert description of the notable aspects of the interactions
-    between the building block instances depicted in this diagram.\>*
-## \<Runtime Scenario 2> {#__runtime_scenario_2}
-## ... {#_}
-## \<Runtime Scenario n> {#__runtime_scenario_n}
+- *\<insert description of the notable aspects of the interactions  between the building block instances depicted in this diagram.\>*
+- ## \<Runtime Scenario 2>
+	- ...
