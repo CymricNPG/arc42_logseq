@@ -6,6 +6,11 @@
 		- quality goals for the architecture and
 		- relevant stakeholders and their expectations
 - TODO Introduction and Goals
+  :LOGBOOK:
+  CLOCK: [2022-05-27 Fri 17:06:16]--[2022-05-27 Fri 17:06:17] =>  00:00:01
+  CLOCK: [2022-05-27 Fri 17:06:18]--[2022-05-27 Fri 17:06:18] =>  00:00:00
+  CLOCK: [2022-05-27 Fri 17:06:19]
+  :END:
 - ## Requirements Overview
 	- **Contents**
 	  Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Link to (hopefully existing) requirements documents (with version number and information where to find it).
