@@ -36,7 +36,7 @@
 		  Many stakeholders make architectural decision based on the technical interfaces between the system and its context. Especially infrastructure or hardware designers decide these technical interfaces.
 		- **Form**
 		  E.g. UML deployment diagram describing channels to neighboring systems, together with a mapping table showing the relationships between channels and input/output.
-	-
+	- TODO Technical Context
 	- **<Diagram or Table>**
 	- **<optionally: Explanation of technical interfaces>**
 	- **<Mapping Input/Output to Channels>**
