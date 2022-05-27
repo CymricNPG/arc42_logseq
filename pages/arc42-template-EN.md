@@ -5,7 +5,7 @@
   
   Created and maintained by Dr. Peter Hruschka, Dr. Gernot Starke and contributors.
   
-  Template modified for [Logseq]
+  Template modified for [Logseq](https://logseq.com/) by Roland Spatzenegger
   
   Template Revision: 8.0 EN (based on asciidoc), February 2022
   
