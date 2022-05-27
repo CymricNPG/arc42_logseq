@@ -6,20 +6,13 @@
 	  You should clearly define your terms, so that all stakeholders
 		- have an identical understanding of these terms
 		- do not use synonyms and homonyms
-		  
-		  ```{=html}
-		  <!-- -->
-		  ```
 		- A table with columns \<Term> and \<Definition>.
-- Potentially more columns in case you need translations.
-  
-  See [Glossary](https://docs.arc42.org/section-12/) in the arc42
-  documentation.
-  
-  +-----------------------+-----------------------------------------------+
-  | Term                  | Definition                                    |
-  +=======================+===============================================+
-  | *\<Term-1>*           | *\<definition-1>*                             |
-  +-----------------------+-----------------------------------------------+
-  | *\<Term-2>*           | *\<definition-2>*                             |
-  +-----------------------+-----------------------------------------------+
+		- Potentially more columns in case you need translations.
+		  
+		  See [Glossary](https://docs.arc42.org/section-12/) in the arc42documentation.
+	- | Term                  | Definition                                    |
+	  |+=======================+===============================================+
+	  | *\<Term-1>*           | *\<definition-1>*                             |
+	  +-----------------------+-----------------------------------------------+
+	  | *\<Term-2>*           | *\<definition-2>*                             |
+	  +-----------------------+-----------------------------------------------+
