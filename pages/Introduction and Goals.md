@@ -5,7 +5,7 @@
 		- essential functional requirements,
 		- quality goals for the architecture and
 		- relevant stakeholders and their expectations
-	-
+- _TODO_
 - ## Requirements Overview
 	- **Contents**
 	  Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Link to (hopefully existing) requirements documents (with version number and information where to find it).
