@@ -54,7 +54,7 @@
   :block/updated-at 1653655542509}
  {:block/name "may 27th, 2022",
   :block/created-at 1653655003641,
-  :block/updated-at 1653655019871}
+  :block/updated-at 1653665726581}
  {:block/name "now",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -76,9 +76,6 @@
  {:block/name "system scope and context",
   :block/created-at 1653658034174,
   :block/updated-at 1653664377075}
- {:block/name "test",
-  :block/created-at 1653655019871,
-  :block/updated-at 1653655019871}
  {:block/name "todo",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
