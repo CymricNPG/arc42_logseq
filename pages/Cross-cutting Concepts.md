@@ -1,29 +1,26 @@
 - ==Hints==
 	- **Content**
 	  This section describes overall, principal regulations and solution ideas that are relevant in multiple parts (= cross-cutting) of your system. Such concepts are often related to multiple building blocks. They can include many different topics, such as
-	- models, especially domain models
-	- architecture or design patterns
-	- rules for using specific technology
-	- principal, often technical decisions of an overarching (=
-	    cross-cutting) nature
-- implementation rules
-  
-  ::: formalpara-title
-  **Motivation**
-  :::
-  
-  Concepts form the basis for *conceptual integrity* (consistency,
-  homogeneity) of the architecture. Thus, they are an important
-  contribution to achieve inner qualities of your system.
-  
-  Some of these concepts cannot be assigned to individual building blocks,
-  e.g. security or safety.
-  
-  ::: formalpara-title
-  **Form**
-  :::
-  
-  The form can be varied:
+		- models, especially domain models
+		- architecture or design patterns
+		- rules for using specific technology
+		- principal, often technical decisions of an overarching (=  cross-cutting) nature
+		- implementation rules
+	- **Motivation**
+	  :::
+	  
+	  Concepts form the basis for *conceptual integrity* (consistency,
+	  homogeneity) of the architecture. Thus, they are an important
+	  contribution to achieve inner qualities of your system.
+	  
+	  Some of these concepts cannot be assigned to individual building blocks,
+	  e.g. security or safety.
+	  
+	  ::: formalpara-title
+	  **Form**
+	  :::
+	  
+	  The form can be varied:
 - concept papers with any kind of structure
 - cross-cutting model excerpts or scenarios using notations of the
     architecture views
