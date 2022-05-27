@@ -1,3 +1,5 @@
+title:: arc42 Template 8.0 EN
+
 - ![Logo](images/arc42-logo.png)
 - **About arc42**
   
