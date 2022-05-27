@@ -17,23 +17,22 @@
 		- sample implementations, especially for technical concepts
 		- reference to typical usage of standard frameworks (e.g. using Hibernate for object/relational mapping)
 	- **Structure**
-		- A potential (but not mandatory) structure for this section could be:
-- Domain concepts
-- User Experience concepts (UX)
-- Safety and security concepts
-- Architecture and design patterns
-- \"Under-the-hood\"
-- development concepts
-- operational concepts
-  
-  Note: it might be difficult to assign individual concepts to one
-  specific topic on this list.
-  
-  ![Possible topics for crosscutting
-  concepts](images/08-Crosscutting-Concepts-Structure-EN.png)
-  
-  See [Concepts](https://docs.arc42.org/section-8/) in the arc42
-  documentation.
+	  A potential (but not mandatory) structure for this section could be:
+		- Domain concepts
+		- User Experience concepts (UX)
+		- Safety and security concepts
+		- Architecture and design patterns
+		- \"Under-the-hood\"
+		- development concepts
+		- operational concepts
+		- ```Note
+		  it might be difficult to assign individual concepts to one
+		  specific topic on this list.
+		- ![Possible topics for crosscutting
+		  concepts](images/08-Crosscutting-Concepts-Structure-EN.png)
+		  
+		  See [Concepts](https://docs.arc42.org/section-8/) in the arc42
+		  documentation.
 ## *\<Concept 1>* {#__emphasis_concept_1_emphasis}
 
 *\<explanation>*
