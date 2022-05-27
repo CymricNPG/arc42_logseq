@@ -19,7 +19,8 @@
 - # [[Architecture Constraints]]
 - # [[System Scope and Context]]
   
-  ::: formalpara-title
+  ::: 
+  formalpara-title
   **Contents**
   :::
   
