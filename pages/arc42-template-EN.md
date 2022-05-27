@@ -24,36 +24,35 @@
 - # [[Runtime View]]
 - # [[Deployment View]]
 - # [[Cross-cutting Concepts]]
-# Architecture Decisions {#section-design-decisions}
-
-::: formalpara-title
-**Contents**
-:::
-
-Important, expensive, large scale or risky architecture decisions
-including rationals. With \"decisions\" we mean selecting one
-alternative based on given criteria.
-
-Please use your judgement to decide whether an architectural decision
-should be documented here in this central section or whether you better
-document it locally (e.g. within the white box template of one building
-block).
-
-Avoid redundancy. Refer to section 4, where you already captured the
-most important decisions of your architecture.
-
-::: formalpara-title
-**Motivation**
-:::
-
-Stakeholders of your system should be able to comprehend and retrace
-your decisions.
-
-::: formalpara-title
-**Form**
-:::
-
-Various options:
+- Architecture Decisions
+	- ::: formalpara-title
+	  **Contents**
+	  :::
+	  
+	  Important, expensive, large scale or risky architecture decisions
+	  including rationals. With \"decisions\" we mean selecting one
+	  alternative based on given criteria.
+	  
+	  Please use your judgement to decide whether an architectural decision
+	  should be documented here in this central section or whether you better
+	  document it locally (e.g. within the white box template of one building
+	  block).
+	  
+	  Avoid redundancy. Refer to section 4, where you already captured the
+	  most important decisions of your architecture.
+	  
+	  ::: formalpara-title
+	  **Motivation**
+	  :::
+	  
+	  Stakeholders of your system should be able to comprehend and retrace
+	  your decisions.
+	  
+	  ::: formalpara-title
+	  **Form**
+	  :::
+	  
+	  Various options:
 - ADR []{.indexterm
     primary="Architecture Decision Record"}[Architecture Decision
     Record](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
