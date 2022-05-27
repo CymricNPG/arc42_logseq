@@ -34,14 +34,9 @@
   Here you can include the internal structure of (some) infrastructure elements from level 1.
   
   Please copy the structure from level 1 for each selected element.
-- ### *\<Infrastructure Element 1>*
-  
-  *\<diagram + explanation>*
-### *\<Infrastructure Element 2>* {#__emphasis_infrastructure_element_2_emphasis}
-
-*\<diagram + explanation>*
-
-...
-### *\<Infrastructure Element n>* {#__emphasis_infrastructure_element_n_emphasis}
-
-*\<diagram + explanation>*
+	- ### *\<Infrastructure Element 1>*
+	  
+	  *\<diagram + explanation>*
+	- ### *\<Infrastructure Element 2>*
+	  
+	  *\<diagram + explanation>*
