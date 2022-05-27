@@ -13,6 +13,7 @@
 	- ==Notes==:
 		- This version of the template contains some help and explanations. It is used for familiarization with arc42 and the understanding of the concepts. For documentation of your own system you use better the *plain* version.
 		- The help sections are marked with ==Hints== and can be collapsed.
+		- Sections which n
 		-
 - # [[Introduction and Goals]]
 - # [[Architecture Constraints]]
