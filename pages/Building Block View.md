@@ -68,26 +68,21 @@
 		  *\<(Optional) Fulfilled Requirements>*
 		  
 		  *\<(optional) Open Issues/Problems/Risks>*
-	- ### \<Name black box 2> {#__name_black_box_2}
+	- ### \<Name black box 2>
 	  
 	  *\<black box template>*
-### \<Name black box n> {#__name_black_box_n}
-
-*\<black box template>*
-### \<Name interface 1> {#__name_interface_1}
-
-...
-### \<Name interface m> {#__name_interface_m}
-## Level 2 {#_level_2}
-
-Here you can specify the inner structure of (some) building blocks from
-level 1 as white boxes.
-
-You have to decide which building blocks of your system are important
-enough to justify such a detailed description. Please prefer relevance
-over completeness. Specify important, surprising, risky, complex or
-volatile building blocks. Leave out normal, simple, boring or
-standardized parts of your system
+	- ### \<Name black box n>
+	  
+	  *\<black box template>*
+	- ### \<Name interface 1>
+	  
+	  ...
+	- ### \<Name interface m> {#__name_interface_m}
+- ## Level 2
+  
+  Here you can specify the inner structure of (some) building blocks from level 1 as white boxes.
+  
+  You have to decide which building blocks of your system are important enough to justify such a detailed description. Please prefer relevance over completeness. Specify important, surprising, risky, complex or volatile building blocks. Leave out normal, simple, boring or standardized parts of your system
 ### White Box *\<building block 1>* {#_white_box_emphasis_building_block_1_emphasis}
 
 ...describes the internal structure of *building block 1*.
