@@ -33,6 +33,7 @@
 	- ![Possible topics for crosscutting concepts](images/08-Crosscutting-Concepts-Structure-EN.png)
 	  
 	  See [Concepts](https://docs.arc42.org/section-8/) in the arc42 documentation.
+- TODO Cross-cutting Concepts
 - ## *\<Concept 1>*
 	- *\<explanation>*
 - ## *\<Concept 2>*

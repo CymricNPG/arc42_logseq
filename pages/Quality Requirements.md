@@ -8,6 +8,7 @@
 	  Since quality requirements will have a lot of influence on architectural decisions you should know for every stakeholder what is really important to them, concrete and measurable.
 	  
 	  See [Quality Requirements](https://docs.arc42.org/section-10/) in the arc42 documentation.
+- TODO Quality
 - ## Quality Tree
 	- ==Hints==
 	  collapsed:: true
