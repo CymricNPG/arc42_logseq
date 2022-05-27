@@ -81,36 +81,36 @@
 	  ...
 	- ### \<Name interface m> {#__name_interface_m}
 - ## Level 2
-  
-  Here you can specify the inner structure of (some) building blocks from level 1 as white boxes.
-  
-  You have to decide which building blocks of your system are important enough to justify such a detailed description. Please prefer relevance over completeness. Specify important, surprising, risky, complex or volatile building blocks. Leave out normal, simple, boring or standardized parts of your system
-- ### White Box *\<building block 1>*
-  
-  ...describes the internal structure of *building block 1*.
-  
-  *\<white box template>*
-- ### White Box *\<building block 2>* 
-  
-  *\<white box template>*
-  
-  ...
-- ### White Box *\<building block m>*
-  
-  *\<white box template>*
+	- ==Hints==
+	  Here you can specify the inner structure of (some) building blocks from level 1 as white boxes.
+	  
+	  You have to decide which building blocks of your system are important enough to justify such a detailed description. Please prefer relevance over completeness. Specify important, surprising, risky, complex or volatile building blocks. Leave out normal, simple, boring or standardized parts of your system
+	- ### White Box *\<building block 1>*
+	  
+	  ...describes the internal structure of *building block 1*.
+	  
+	  *\<white box template>*
+	- ### White Box *\<building block 2>* 
+	  
+	  *\<white box template>*
+	  
+	  ...
+	- ### White Box *\<building block m>*
+	  
+	  *\<white box template>*
 - ## Level 3
-  
-  Here you can specify the inner structure of (some) building blocks from level 2 as white boxes.
-  
-  When you need more detailed levels of your architecture please copy this part of arc42 for additional levels.
-- ### White Box \<\_building block x.1\_\>
-  
-  Specifies the internal structure of *building block x.1*.
-  
-  *\<white box template>*
-- ### White Box \<\_building block x.2\_\> 
-  
-  *\<white box template>*
-- ### White Box \<\_building block y.1\_\> 
-  
-  *\<white box template>*
+	- ==Hints==
+	  Here you can specify the inner structure of (some) building blocks from level 2 as white boxes.
+	  
+	  When you need more detailed levels of your architecture please copy this part of arc42 for additional levels.
+	- ### White Box \<\_building block x.1\_\>
+	  
+	  Specifies the internal structure of *building block x.1*.
+	  
+	  *\<white box template>*
+	- ### White Box \<\_building block x.2\_\> 
+	  
+	  *\<white box template>*
+	- ### White Box \<\_building block y.1\_\> 
+	  
+	  *\<white box template>*
