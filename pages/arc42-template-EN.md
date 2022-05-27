@@ -17,10 +17,10 @@
   concepts. For documentation of your own system you use better the
   *plain* version.
   ```
-# Introduction and Goals {#section-introduction-and-goals}
-
-Describes the relevant requirements and the driving forces that software
-architects and development team must consider. These include
+- # Introduction and Goals
+  
+  Describes the relevant requirements and the driving forces that software
+  architects and development team must consider. These include
 - underlying business goals,
 - essential features,
 - essential functional requirements,
