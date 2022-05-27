@@ -7,32 +7,17 @@
 		- principal, often technical decisions of an overarching (=  cross-cutting) nature
 		- implementation rules
 	- **Motivation**
-	  :::
+	  Concepts form the basis for *conceptual integrity* (consistency, homogeneity) of the architecture. Thus, they are an important contribution to achieve inner qualities of your system.
 	  
-	  Concepts form the basis for *conceptual integrity* (consistency,
-	  homogeneity) of the architecture. Thus, they are an important
-	  contribution to achieve inner qualities of your system.
-	  
-	  Some of these concepts cannot be assigned to individual building blocks,
-	  e.g. security or safety.
-	  
-	  ::: formalpara-title
-	  **Form**
-	  :::
-	  
+	  Some of these concepts cannot be assigned to individual building blocks, e.g. security or safety.
+	- **Form**
 	  The form can be varied:
-- concept papers with any kind of structure
-- cross-cutting model excerpts or scenarios using notations of the
-    architecture views
-- sample implementations, especially for technical concepts
-- reference to typical usage of standard frameworks (e.g. using
-    Hibernate for object/relational mapping)
-  
-  ::: formalpara-title
-  **Structure**
-  :::
-  
-  A potential (but not mandatory) structure for this section could be:
+		- concept papers with any kind of structure
+		- cross-cutting model excerpts or scenarios using notations of the architecture views
+		- sample implementations, especially for technical concepts
+		- reference to typical usage of standard frameworks (e.g. using Hibernate for object/relational mapping)
+	- **Structure**
+		- A potential (but not mandatory) structure for this section could be:
 - Domain concepts
 - User Experience concepts (UX)
 - Safety and security concepts
