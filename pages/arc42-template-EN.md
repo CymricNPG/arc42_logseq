@@ -96,35 +96,35 @@
 	  
 	  Explicit overview of stakeholders of the system, i.e. all person, roles
 	  or organizations that
-- should know the architecture
-- have to be convinced of the architecture
-- have to work with the architecture or with code
-- need the documentation of the architecture for their work
-- have to come up with decisions about the system or its development
-  
-  ::: formalpara-title
-  **Motivation**
-  :::
-  
-  You should know all parties involved in development of the system or
-  affected by the system. Otherwise, you may get nasty surprises later in
-  the development process. These stakeholders determine the extent and the
-  level of detail of your work and its results.
-  
-  ::: formalpara-title
-  **Form**
-  :::
-  
-  Table with role names, person names, and their expectations with respect
-  to the architecture and its documentation.
-  
-  +-------------+---------------------------+---------------------------+
-  | Role/Name   | Contact                   | Expectations              |
-  +=============+===========================+===========================+
-  | *\<Role-1>* | *\<Contact-1>*            | *\<Expectation-1>*        |
-  +-------------+---------------------------+---------------------------+
-  | *\<Role-2>* | *\<Contact-2>*            | *\<Expectation-2>*        |
-  +-------------+---------------------------+---------------------------+
+	- should know the architecture
+	- have to be convinced of the architecture
+	- have to work with the architecture or with code
+	- need the documentation of the architecture for their work
+	- have to come up with decisions about the system or its development
+	  
+	  ::: formalpara-title
+	  **Motivation**
+	  :::
+	  
+	  You should know all parties involved in development of the system or
+	  affected by the system. Otherwise, you may get nasty surprises later in
+	  the development process. These stakeholders determine the extent and the
+	  level of detail of your work and its results.
+	  
+	  ::: formalpara-title
+	  **Form**
+	  :::
+	  
+	  Table with role names, person names, and their expectations with respect
+	  to the architecture and its documentation.
+	  
+	  +-------------+---------------------------+---------------------------+
+	  | Role/Name   | Contact                   | Expectations              |
+	  +=============+===========================+===========================+
+	  | *\<Role-1>* | *\<Contact-1>*            | *\<Expectation-1>*        |
+	  +-------------+---------------------------+---------------------------+
+	  | *\<Role-2>* | *\<Contact-2>*            | *\<Expectation-2>*        |
+	  +-------------+---------------------------+---------------------------+
 # Architecture Constraints {#section-architecture-constraints}
 
 ::: formalpara-title
