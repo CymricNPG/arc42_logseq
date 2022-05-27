@@ -5,15 +5,11 @@
 	  Please use your judgement to decide whether an architectural decision should be documented here in this central section or whether you better document it locally (e.g. within the white box template of one building block).
 	  
 	  Avoid redundancy. Refer to section 4, where you already captured the most important decisions of your architecture.
-		- **Motivation**
-		  Stakeholders of your system should be able to comprehend and retrace your decisions.
-		- **Form**
-		  :::
-		  
-		  Various options:
-- ADR []{.indexterm
-    primary="Architecture Decision Record"}[Architecture Decision
-    Record](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+	- **Motivation**
+	  Stakeholders of your system should be able to comprehend and retrace your decisions.
+	- **Form**
+	  Various options:
+- ADR [Architecture Decision Record](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
     for every important decision
 - List or table, ordered by importance and consequences or:
 - more detailed in form of separate sections per decision
