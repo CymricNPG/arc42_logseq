@@ -21,14 +21,13 @@
 - # [[Solution Strategy]]
 - # [[Building Block View]]
   collapsed:: true
-# Runtime View {#section-runtime-view}
-
-::: formalpara-title
-**Contents**
-:::
-
-The runtime view describes concrete behavior and interactions of the
-system's building blocks in form of scenarios from the following areas:
+- # Runtime View {#section-runtime-view}
+	- ::: formalpara-title
+	  **Contents**
+	  :::
+	  
+	  The runtime view describes concrete behavior and interactions of the
+	  system's building blocks in form of scenarios from the following areas:
 - important use cases or features: how do building blocks execute
     them?
 - interactions at critical external interfaces: how do building blocks
