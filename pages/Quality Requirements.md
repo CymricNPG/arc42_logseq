@@ -13,30 +13,21 @@
 	  The quality tree (as defined in ATAM -- Architecture Tradeoff Analysis Method) with quality/evaluation scenarios as leafs.
 	- **Motivation**
 	  The tree structure with priorities provides an overview for a sometimes large number of quality requirements.
-	  **Form**
-	  :::
-	  
-	  The quality tree is a high-level overview of the quality goals and
-	  requirements:
-- tree-like refinement of the term \"quality\". Use \"quality\" or
-    \"usefulness\" as a root
-- a mind map with quality categories as main branches
-  
-  In any case the tree should include links to the scenarios of the
-  following section.
-## Quality Scenarios {#_quality_scenarios}
-
-::: formalpara-title
-**Contents**
-:::
-
-Concretization of (sometimes vague or implicit) quality requirements
-using (quality) scenarios.
-
-These scenarios describe what should happen when a stimulus arrives at
-the system.
-
-For architects, two kinds of scenarios are important:
+	- **Form**
+	  The quality tree is a high-level overview of the quality goals and requirements:
+		- tree-like refinement of the term \"quality\". Use \"quality\" or \"usefulness\" as a root
+		- a mind map with quality categories as main branches
+		- In any case the tree should include links to the scenarios of the following section.
+- ## Quality Scenarios
+	- Hints
+		- **Contents**
+		  Concretization of (sometimes vague or implicit) quality requirements
+		  using (quality) scenarios.
+		  
+		  These scenarios describe what should happen when a stimulus arrives at
+		  the system.
+		  
+		  For architects, two kinds of scenarios are important:
 - Usage scenarios (also called application scenarios or use case
     scenarios) describe the system's runtime reaction to a certain
     stimulus. This also includes scenarios that describe the system's
