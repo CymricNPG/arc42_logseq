@@ -1,9 +1,11 @@
-- Describes the relevant requirements and the driving forces that software architects and development team must consider. These include
-	- underlying business goals,
-	- essential features,
-	- essential functional requirements,
-	- quality goals for the architecture and
-	- relevant stakeholders and their expectations
+- ==Hints==
+	- Describes the relevant requirements and the driving forces that software architects and development team must consider. These include
+		- underlying business goals,
+		- essential features,
+		- essential functional requirements,
+		- quality goals for the architecture and
+		- relevant stakeholders and their expectations
+	-
 - ## Requirements Overview
 	- **Contents**
 	  Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Link to (hopefully existing) requirements documents (with version number and information where to find it).
