@@ -30,37 +30,30 @@
 - (optional:) important interfaces, that are not explained in the black box templates of a building block, but are very important for  understanding the white box. Since there are so many ways to specify
     interfaces why do not provide a specific template for them. In the  worst case you have to specify and describe syntax, semantics,  protocols, error handling, restrictions, versions, qualities,
     necessary compatibilities and many things more. In the best case you  will get away with examples or simple signatures.
-  
-  ***\<Overview Diagram>***
-  
-  Motivation
-  
-  :   *\<text explanation>*
-  
-  Contained Building Blocks
-  
-  :   *\<Description of contained building block (black boxes)>*
-  
-  Important Interfaces
-  
-  :   *\<Description of important interfaces>*
-  
-  Insert your explanations of black boxes from level 1:
-  
-  If you use tabular form you will only describe your black boxes with
-  name and responsibility according to the following schema:
-  
-  +-----------------------+-----------------------------------------------+
-  | **Name**              | **Responsibility**                            |
-  +=======================+===============================================+
-  | *\<black box 1>*      |  *\<Text>*                                    |
-  +-----------------------+-----------------------------------------------+
-  | *\<black box 2>*      |  *\<Text>*                                    |
-  +-----------------------+-----------------------------------------------+
-  
-  If you use a list of black box descriptions then you fill in a separate
-  black box template for every important building block . Its headline is
-  the name of the black box.
+- ***\<Overview Diagram>***
+- Motivation
+	- :   *\<text explanation>*
+- Contained Building Blocks
+	- :   *\<Description of contained building block (black boxes)>*
+- Important Interfaces
+	- :   *\<Description of important interfaces>*
+	  
+	  Insert your explanations of black boxes from level 1:
+	  
+	  If you use tabular form you will only describe your black boxes with
+	  name and responsibility according to the following schema:
+	  
+	  +-----------------------+-----------------------------------------------+
+	  | **Name**              | **Responsibility**                            |
+	  +=======================+===============================================+
+	  | *\<black box 1>*      |  *\<Text>*                                    |
+	  +-----------------------+-----------------------------------------------+
+	  | *\<black box 2>*      |  *\<Text>*                                    |
+	  +-----------------------+-----------------------------------------------+
+	  
+	  If you use a list of black box descriptions then you fill in a separate
+	  black box template for every important building block . Its headline is
+	  the name of the black box.
 ### \<Name black box 1> {#__name_black_box_1}
 
 Here you describe \<black box 1> according the the following black box
