@@ -11,12 +11,12 @@
   © We acknowledge that this document uses material from the arc 42
   architecture template, <https://arc42.org>.
   
-  ::: note
+  ```note
   This version of the template contains some help and explanations. It is
   used for familiarization with arc42 and the understanding of the
   concepts. For documentation of your own system you use better the
   *plain* version.
-  :::
+  ```
 # Introduction and Goals {#section-introduction-and-goals}
 
 Describes the relevant requirements and the driving forces that software
