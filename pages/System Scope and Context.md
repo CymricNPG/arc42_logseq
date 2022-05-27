@@ -1,4 +1,5 @@
 - ==Hints==
+  collapsed:: true
 	- **Contents**
 	  System scope and context - as the name suggests - delimits your system (i.e. your scope) from all its communication partners (neighboring systems and users, i.e. the context of your system). It thereby specifies the external interfaces.
 	    
@@ -13,14 +14,17 @@
 		  See [Context and Scope](https://docs.arc42.org/section-3/) in the arc42 documentation.
 - TODO System Scope and Context
 - ## Business Context
-	- **Contents**
-	  Specification of **all** communication partners (users, IT-systems, ...) with explanations of domain specific inputs and outputs or interfaces. Optionally you can add domain specific formats or communication protocols.
-	- **Motivation**
-	  All stakeholders should understand which data are exchanged with the environment of the system.
-	- **Form**
-	  All kinds of diagrams that show the system as a black box and specify the domain interfaces to communication partners.
-	    
-	  Alternatively (or additionally) you can use a table. The title of the table is the name of your system, the three columns contain the name of the communication partner, the inputs, and the outputs.
+	- ==Hints==
+	  collapsed:: true
+		- **Contents**
+		  Specification of **all** communication partners (users, IT-systems, ...) with explanations of domain specific inputs and outputs or interfaces. Optionally you can add domain specific formats or communication protocols.
+		- **Motivation**
+		  All stakeholders should understand which data are exchanged with the environment of the system.
+		- **Form**
+		  All kinds of diagrams that show the system as a black box and specify the domain interfaces to communication partners.
+		    
+		  Alternatively (or additionally) you can use a table. The title of the table is the name of your system, the three columns contain the name of the communication partner, the inputs, and the outputs.
+	- TODO Business Context
 	- **<Diagram or Table>**
 	- **<optionally: Explanation of external domain interfaces>**
 - ## Technical Context
