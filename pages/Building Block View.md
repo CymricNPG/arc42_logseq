@@ -41,25 +41,18 @@
   
   If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:
   
-  
   | **Name**              | **Responsibility**                            |
-  |
+  |--------------------|------------------------------------|
   | *\<black box 1>*      |  *\<Text>*                                    |
-  +-----------------------+-----------------------------------------------+
   | *\<black box 2>*      |  *\<Text>*                                    |
-  +-----------------------+-----------------------------------------------+
   
-  If you use a list of black box descriptions then you fill in a separate
-  black box template for every important building block . Its headline is
-  the name of the black box.
-### \<Name black box 1> {#__name_black_box_1}
-
-Here you describe \<black box 1> according the the following black box
-template:
-- Purpose/Responsibility
-- Interface(s), when they are not extracted as separate paragraphs.
-    This interfaces may include qualities and performance
-    characteristics.
+  If you use a list of black box descriptions then you fill in a separate black box template for every important building block . Its headline is the name of the black box.
+	- ### \<Name black box 1>
+	  Here you describe \<black box 1> according the the following black box template:
+		- Purpose/Responsibility
+	- Interface(s), when they are not extracted as separate paragraphs.
+	    This interfaces may include qualities and performance
+	    characteristics.
 - (Optional) Quality-/Performance characteristics of the black box,
     e.g.availability, run time behavior, ....
 - (Optional) directory/file location
