@@ -20,7 +20,8 @@
 - TODO Deployment View
 - ## Infrastructure Level 1
 	- ==Hints==
-		- Describe (usually in a combination of diagrams, tables, and text):
+	  collapsed:: true
+	  Describe (usually in a combination of diagrams, tables, and text):
 		- distribution of a system to multiple locations, environments,  computers, processors, .., as well as physical connections between  them
 		- important justifications or motivations for this deployment  structure
 		- quality and/or performance features of this infrastructure
@@ -34,9 +35,10 @@
 	- Mapping of Building Blocks to Infrastructure
 		- *\<description of the mapping>*
 - ## Infrastructure Level 2
-  Here you can include the internal structure of (some) infrastructure elements from level 1.
-  
-  Please copy the structure from level 1 for each selected element.
+	- ==Hints==
+	  Here you can include the internal structure of (some) infrastructure elements from level 1.
+	  
+	  Please copy the structure from level 1 for each selected element.
 	- ### *\<Infrastructure Element 1>*
 	  
 	  *\<diagram + explanation>*
