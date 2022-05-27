@@ -23,16 +23,15 @@
   collapsed:: true
 - # [[Runtime View]]
 - # [[Deployment View]]
-# Cross-cutting Concepts {#section-concepts}
-
-::: formalpara-title
-**Content**
-:::
-
-This section describes overall, principal regulations and solution ideas
-that are relevant in multiple parts (= cross-cutting) of your system.
-Such concepts are often related to multiple building blocks. They can
-include many different topics, such as
+- Cross-cutting Concepts
+	- ::: formalpara-title
+	  **Content**
+	  :::
+	  
+	  This section describes overall, principal regulations and solution ideas
+	  that are relevant in multiple parts (= cross-cutting) of your system.
+	  Such concepts are often related to multiple building blocks. They can
+	  include many different topics, such as
 - models, especially domain models
 - architecture or design patterns
 - rules for using specific technology
