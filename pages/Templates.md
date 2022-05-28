@@ -5,14 +5,12 @@ You can use [adr-tools](https://github.com/npryce/adr-tools) for managing the AD
 
 In each ADR file, write these sections:
 	- # Title
+		- Description
 		- ## Status
-		- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+			- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 		- ## Context
-		  
-		  What is the issue that we're seeing that is motivating this decision or change?
+			- What is the issue that we're seeing that is motivating this decision or change?
 		- ## Decision
-		  
-		  What is the change that we're proposing and/or doing?
+			- What is the change that we're proposing and/or doing?
 		- ## Consequences
-		  
-		  What becomes easier or more difficult to do because of this change?
+			- What becomes easier or more difficult to do because of this change?
