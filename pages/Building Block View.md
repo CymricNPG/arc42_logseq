@@ -47,8 +47,7 @@
 	  |--------------------|------------------------------------|
 	  | *\<black box 1>*      |  *\<Text>*                                    |
 	  | *\<black box 2>*      |  *\<Text>*                                    |
-	  
-	  If you use a list of black box descriptions then you fill in a separate black box template for every important building block . Its headline is the name of the black box.
+	- ==If you use a list of black box descriptions then you fill in a separate black box template for every important building block . Its headline is the name of the black box.==
 	- ### \<Name black box 1>
 	  Here you describe \<black box 1> according the the following black box template:
 		- Purpose/Responsibility
