@@ -3,7 +3,7 @@
   :block/updated-at 1653655542509}
  {:block/name "arc42 template 8.0 en",
   :block/created-at 1653655034403,
-  :block/updated-at 1653831553188}
+  :block/updated-at 1653832932798}
  {:block/name "architecture constraints",
   :block/created-at 1653657872668,
   :block/updated-at 1653830084863}
@@ -55,9 +55,6 @@
  {:block/name "may 27th, 2022",
   :block/created-at 1653655003641,
   :block/updated-at 1653665726581}
- {:block/name "may 28th, 2022",
-  :block/created-at 1653740539558,
-  :block/updated-at 1653740539558}
  {:block/name "may 29th, 2022",
   :block/created-at 1653829882539,
   :block/updated-at 1653829882539}
