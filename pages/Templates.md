@@ -38,4 +38,5 @@
 		- **Open Issues/Problems/Risk**
 			- *\<(optional) Open Issues/Problems/Risks>*
 - White Box Template
-	- ### White Box\<Name black box/Interface>
+	- ### White Box *<building block X>*
+		- describes the internal structure of building block 1.
