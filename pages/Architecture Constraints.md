@@ -1,5 +1,4 @@
 - ==Hints==
-  collapsed:: true
 	- **Contents**
 	  Any requirement that constraints software architects in their freedom of design and implementation decisions or decision about the development process. These constraints sometimes go beyond individual systems and are valid for whole organizations and companies.
 	- **Motivation**
@@ -9,3 +8,10 @@
 	  
 	  See [Architecture Constraints](https://docs.arc42.org/section-2/) in the arc42 documentation.
 - TODO Architecture Constraints
+- |Category| Constraint|
+  |----------|-----------|
+  |Technical| |
+  |Organizational | |
+  |Political | |
+  |Convention| |
+-
