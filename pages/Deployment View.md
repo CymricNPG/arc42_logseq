@@ -37,14 +37,14 @@
 		- *\<description of the mapping>*
 - ## Infrastructure Level 2
 	- ==Hints==
-	  collapsed:: true
 		- Here you can include the internal structure of (some) infrastructure elements from level 1.
-		  
-		  Please copy the structure from level 1 for each selected element.
-	- ==Use **/Template Infrastructure Element**==
-	- ### *\<Infrastructure Element 1>*
-	  
-	  *\<diagram + explanation>*
-	- ### *\<Infrastructure Element 2>*
-	  
-	  *\<diagram + explanation>*
+		- Use **/Template Infrastructure Element**
+		- ### *\<Infrastructure Element X>*
+			- ***\<Overview Diagram>***
+			- **Motivation**
+				- *\<explanation in text form>*
+			- **Quality and/or Performance Features**
+				- *\<explanation in text form>*
+			- **Mapping of Building Blocks to Infrastructure**
+				- *\<description of the mapping>*
+	-
