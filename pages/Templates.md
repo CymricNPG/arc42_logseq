@@ -39,4 +39,5 @@
 			- *\<(optional) Open Issues/Problems/Risks>*
 - White Box Template
 	- ### White Box *<building block X>*
-		- describes the internal structure of building block 1.
+	  template:: White Box
+		- *...describes the internal structure of building block X.*
