@@ -3,19 +3,19 @@
   :block/updated-at 1653655542509}
  {:block/name "arc42 template 8.0 en",
   :block/created-at 1653655034403,
-  :block/updated-at 1653740552911}
+  :block/updated-at 1653831553188}
  {:block/name "architecture constraints",
   :block/created-at 1653657872668,
-  :block/updated-at 1653664302367}
+  :block/updated-at 1653830084863}
  {:block/name "architecture decisions",
   :block/created-at 1653662504456,
-  :block/updated-at 1653665052164}
+  :block/updated-at 1653832065237}
  {:block/name "b",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
  {:block/name "building block view",
   :block/created-at 1653659194594,
-  :block/updated-at 1653667034279}
+  :block/updated-at 1653831384901}
  {:block/name "c",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -30,7 +30,7 @@
   :block/updated-at 1653665024445}
  {:block/name "deployment view",
   :block/created-at 1653661678599,
-  :block/updated-at 1653667093877}
+  :block/updated-at 1653831980493}
  {:block/name "doing",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -58,6 +58,9 @@
  {:block/name "may 28th, 2022",
   :block/created-at 1653740539558,
   :block/updated-at 1653740539558}
+ {:block/name "may 29th, 2022",
+  :block/created-at 1653829882539,
+  :block/updated-at 1653829882539}
  {:block/name "now",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -81,7 +84,7 @@
   :block/updated-at 1653666988967}
  {:block/name "templates",
   :block/created-at 1653740552911,
-  :block/updated-at 1653740802063}
+  :block/updated-at 1653831839709}
  {:block/name "todo",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
