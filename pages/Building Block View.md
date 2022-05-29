@@ -35,53 +35,53 @@
 		- (optional:) important interfaces, that are not explained in the black box templates of a building block, but are very important for  understanding the white box. Since there are so many ways to specify  interfaces why do not provide a specific template for them. In the  worst case you have to specify and describe syntax, semantics,  protocols, error handling, restrictions, versions, qualities,  necessary compatibilities and many things more. In the best case you  will get away with examples or simple signatures.
 	- TODO Whitebox Overall System
 	- ***\<Overview Diagram>***
-	- Motivation
+	- **Motivation**
 		- *\<text explanation>*
-	- Contained Building Blocks
+	- **Contained Building Blocks**
 		- *\<Description of contained building block (black boxes)>*
-	- Important Interfaces
+	- **Important Interfaces**
 		- *\<Description of important interfaces>*
-- Insert your explanations of black boxes from level 1:
-  
-  If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:
-  
-  | **Name**              | **Responsibility**                            |
-  |--------------------|------------------------------------|
-  | *\<black box 1>*      |  *\<Text>*                                    |
-  | *\<black box 2>*      |  *\<Text>*                                    |
-  
-  If you use a list of black box descriptions then you fill in a separate black box template for every important building block . Its headline is the name of the black box.
-	- ### \<Name black box 1>
-	  Here you describe \<black box 1> according the the following black box template:
-		- Purpose/Responsibility
-		- Interface(s), when they are not extracted as separate paragraphs.
-		    This interfaces may include qualities and performance characteristics.
-		- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
-		- (Optional) directory/file location
-		- (Optional) Fulfilled requirements (if you need traceability to requirements).
-		- (Optional) Open issues/problems/risks
-		  
-		  *\<Purpose/Responsibility>*
-		  
-		  *\<Interface(s)>*
-		  
-		  *\<(Optional) Quality/Performance Characteristics>*
-		  
-		  *\<(Optional) Directory/File Location>*
-		  
-		  *\<(Optional) Fulfilled Requirements>*
-		  
-		  *\<(optional) Open Issues/Problems/Risks>*
-	- ### \<Name black box 2>
+	- Insert your explanations of black boxes from level 1:
 	  
-	  *\<black box template>*
-	- ### \<Name black box n>
+	  If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:
 	  
-	  *\<black box template>*
-	- ### \<Name interface 1>
+	  | **Name**              | **Responsibility**                            |
+	  |--------------------|------------------------------------|
+	  | *\<black box 1>*      |  *\<Text>*                                    |
+	  | *\<black box 2>*      |  *\<Text>*                                    |
 	  
-	  ...
-	- ### \<Name interface m> {#__name_interface_m}
+	  If you use a list of black box descriptions then you fill in a separate black box template for every important building block . Its headline is the name of the black box.
+		- ### \<Name black box 1>
+		  Here you describe \<black box 1> according the the following black box template:
+			- Purpose/Responsibility
+			- Interface(s), when they are not extracted as separate paragraphs.
+			    This interfaces may include qualities and performance characteristics.
+			- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
+			- (Optional) directory/file location
+			- (Optional) Fulfilled requirements (if you need traceability to requirements).
+			- (Optional) Open issues/problems/risks
+			  
+			  *\<Purpose/Responsibility>*
+			  
+			  *\<Interface(s)>*
+			  
+			  *\<(Optional) Quality/Performance Characteristics>*
+			  
+			  *\<(Optional) Directory/File Location>*
+			  
+			  *\<(Optional) Fulfilled Requirements>*
+			  
+			  *\<(optional) Open Issues/Problems/Risks>*
+		- ### \<Name black box 2>
+		  
+		  *\<black box template>*
+		- ### \<Name black box n>
+		  
+		  *\<black box template>*
+		- ### \<Name interface 1>
+		  
+		  ...
+		- ### \<Name interface m> {#__name_interface_m}
 - ## Level 2
 	- ==Hints==
 	  collapsed:: true
