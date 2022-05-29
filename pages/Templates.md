@@ -14,34 +14,36 @@
 		- ## Consequences
 			- What becomes easier or more difficult to do because of this change?
 - Black Box Template
-- ### \<Name black box 1>
-  Here you describe \<black box 1> according the the following black box template:
-	- Purpose/Responsibility
-	- Interface(s), when they are not extracted as separate paragraphs.
-	    This interfaces may include qualities and performance characteristics.
-	- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
-	- (Optional) directory/file location
-	- (Optional) Fulfilled requirements (if you need traceability to requirements).
-	- (Optional) Open issues/problems/risks
-	  
-	  *\<Purpose/Responsibility>*
-	  
-	  *\<Interface(s)>*
-	  
-	  *\<(Optional) Quality/Performance Characteristics>*
-	  
-	  *\<(Optional) Directory/File Location>*
-	  
-	  *\<(Optional) Fulfilled Requirements>*
-	  
-	  *\<(optional) Open Issues/Problems/Risks>*
-	- ### \<Name black box 2>
-	  
-	  *\<black box template>*
-	- ### \<Name black box n>
-	  
-	  *\<black box template>*
-	- ### \<Name interface 1>
-	  
-	  ...
-	- ### \<Name interface m> {#__name_interface_m}
+	- ### \<Name black box 1>
+		- ==Hints:==
+			- Here you describe \<black box 1> according the the following black box template:
+		- **Purpose/Responsibility**
+		- **Interface(s)**
+			- , when they are not extracted as separate paragraphs.
+			    This interfaces may include qualities and performance characteristics.
+		- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
+		- (Optional) directory/file location
+		- (Optional) Fulfilled requirements (if you need traceability to requirements).
+		- (Optional) Open issues/problems/risks
+		  
+		  *\<Purpose/Responsibility>*
+		  
+		  *\<Interface(s)>*
+		  
+		  *\<(Optional) Quality/Performance Characteristics>*
+		  
+		  *\<(Optional) Directory/File Location>*
+		  
+		  *\<(Optional) Fulfilled Requirements>*
+		  
+		  *\<(optional) Open Issues/Problems/Risks>*
+		- ### \<Name black box 2>
+		  
+		  *\<black box template>*
+		- ### \<Name black box n>
+		  
+		  *\<black box template>*
+		- ### \<Name interface 1>
+		  
+		  ...
+		- ### \<Name interface m> {#__name_interface_m}
