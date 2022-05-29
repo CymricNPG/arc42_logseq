@@ -3,7 +3,7 @@
   :block/updated-at 1653655542509}
  {:block/name "arc42 template 8.0 en",
   :block/created-at 1653655034403,
-  :block/updated-at 1653664246246}
+  :block/updated-at 1653740552911}
  {:block/name "architecture constraints",
   :block/created-at 1653657872668,
   :block/updated-at 1653664302367}
@@ -55,6 +55,9 @@
  {:block/name "may 27th, 2022",
   :block/created-at 1653655003641,
   :block/updated-at 1653665726581}
+ {:block/name "may 28th, 2022",
+  :block/created-at 1653740539558,
+  :block/updated-at 1653740539558}
  {:block/name "now",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
@@ -76,6 +79,9 @@
  {:block/name "system scope and context",
   :block/created-at 1653658034174,
   :block/updated-at 1653666988967}
+ {:block/name "templates",
+  :block/created-at 1653740552911,
+  :block/updated-at 1653740802063}
  {:block/name "todo",
   :block/created-at 1653655542509,
   :block/updated-at 1653655542509}
