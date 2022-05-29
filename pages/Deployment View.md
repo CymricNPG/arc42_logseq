@@ -29,11 +29,11 @@
 		- mapping of software artifacts to elements of this infrastructure
 		- For multiple environments or alternative deployments please copy and adapt this section of arc42 for all relevant environments.
 	- ***\<Overview Diagram>***
-	- Motivation
+	- **Motivation**
 		- *\<explanation in text form>*
-	- Quality and/or Performance Features
+	- **Quality and/or Performance Features**
 		- *\<explanation in text form>*
-	- Mapping of Building Blocks to Infrastructure
+	- **Mapping of Building Blocks to Infrastructure**
 		- *\<description of the mapping>*
 - ## Infrastructure Level 2
 	- ==Hints==
