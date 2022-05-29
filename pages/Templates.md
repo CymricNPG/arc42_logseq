@@ -14,7 +14,7 @@
 		- ## Consequences
 			- What becomes easier or more difficult to do because of this change?
 - Black Box Template
-	- ### \<Name black box 1>
+	- ### \<Name black box() 1>
 		- ==Hints:==
 		  collapsed:: true
 			- Here you describe \<black box 1> according the the following black box template:
@@ -28,10 +28,13 @@
 			- *\<Purpose/Responsibility>*
 		- **Interfaces(s)**
 			- *\<Interface(s)>*
-			- **Quality/Performance Characteristics**
-				- \<(Optional) Quality/Performance Characteristics>*
+		- **Quality/Performance Characteristics**
+			- *\<(Optional) Quality/Performance Characteristics>*
+		- **Directory/File Location**
 			- *\<(Optional) Directory/File Location>*
+		- **Fulfilled Requirements**
 			- *\<(Optional) Fulfilled Requirements>*
+		- **Open Issues/Problems/Risk**
 			- *\<(optional) Open Issues/Problems/Risks>*
 		- ### \<Name black box 2>
 		  
