@@ -41,6 +41,7 @@
 		- Here you can include the internal structure of (some) infrastructure elements from level 1.
 		  
 		  Please copy the structure from level 1 for each selected element.
+	- ==Use **/Template Infrastructure Element**==
 	- ### *\<Infrastructure Element 1>*
 	  
 	  *\<diagram + explanation>*

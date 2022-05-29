@@ -43,6 +43,7 @@
 		- *...describes the internal structure of building block X.*
 - Infrastructure Template
 	- ### *\<Infrastructure Element X>*
+	  template:: Infrastructure Element
 		- ***\<Overview Diagram>***
 		- **Motivation**
 			- *\<explanation in text form>*
