@@ -17,16 +17,14 @@
 	- ### \<Name black box 1>
 		- ==Hints:==
 			- Here you describe \<black box 1> according the the following black box template:
-		- **Purpose/Responsibility**
-		- **Interface(s)**
-			- , when they are not extracted as separate paragraphs.
+			- Purpose/Responsibility
+			- Interface(s), when they are not extracted as separate paragraphs.
 			    This interfaces may include qualities and performance characteristics.
-		- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
-		- (Optional) directory/file location
-		- (Optional) Fulfilled requirements (if you need traceability to requirements).
-		- (Optional) Open issues/problems/risks
-		  
-		  *\<Purpose/Responsibility>*
+			- (Optional) Quality-/Performance characteristics of the black box, e.g.availability, run time behavior, ....
+			- (Optional) directory/file location
+			- (Optional) Fulfilled requirements (if you need traceability to requirements).
+			- (Optional) Open issues/problems/risks
+		- *\<Purpose/Responsibility>*
 		  
 		  *\<Interface(s)>*
 		  
