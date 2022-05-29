@@ -24,17 +24,15 @@
 			- (Optional) directory/file location
 			- (Optional) Fulfilled requirements (if you need traceability to requirements).
 			- (Optional) Open issues/problems/risks
-		- *\<Purpose/Responsibility>*
-		  
-		  *\<Interface(s)>*
-		  
-		  *\<(Optional) Quality/Performance Characteristics>*
-		  
-		  *\<(Optional) Directory/File Location>*
-		  
-		  *\<(Optional) Fulfilled Requirements>*
-		  
-		  *\<(optional) Open Issues/Problems/Risks>*
+		- **Purpose/Responsibility**
+			- *\<Purpose/Responsibility>*
+		- **Interfaces(s)**
+			- *\<Interface(s)>*
+			- **Quality/Performance Characteristics**
+				- \<(Optional) Quality/Performance Characteristics>*
+			- *\<(Optional) Directory/File Location>*
+			- *\<(Optional) Fulfilled Requirements>*
+			- *\<(optional) Open Issues/Problems/Risks>*
 		- ### \<Name black box 2>
 		  
 		  *\<black box template>*
