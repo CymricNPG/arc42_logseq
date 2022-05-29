@@ -41,11 +41,9 @@
 		- *\<Description of contained building block (black boxes)>*
 	- **Important Interfaces**
 		- *\<Description of important interfaces>*
-	- Insert your explanations of black boxes from level 1:
-	  
-	  If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:
-	  
-	  | **Name**              | **Responsibility**                            |
+	- ==Insert your explanations of black boxes from level 1: ==
+	  ==If you use tabular form you will only describe your black boxes with name and responsibility according to the following schema:==
+	- | **Name**              | **Responsibility**                            |
 	  |--------------------|------------------------------------|
 	  | *\<black box 1>*      |  *\<Text>*                                    |
 	  | *\<black box 2>*      |  *\<Text>*                                    |
