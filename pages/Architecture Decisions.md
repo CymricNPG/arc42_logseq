@@ -1,4 +1,5 @@
 - Hints
+  collapsed:: true
 	- **Contents**
 	  Important, expensive, large scale or risky architecture decisions including rationals. With \"decisions\" we mean selecting one alternative based on given criteria.
 	  
@@ -14,4 +15,4 @@
 		- more detailed in form of separate sections per decision
 		- See [Architecture Decisions](https://docs.arc42.org/section-9/) in the arc42 documentation. There you will find links and examples about ADR.
 - TODO Architecture Decisions
--
+- ==Use **/Template ADR**==
