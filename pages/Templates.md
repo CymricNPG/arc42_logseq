@@ -42,10 +42,11 @@
 	  template:: White Box
 		- *...describes the internal structure of building block X.*
 - Infrastructure Template
-- ***\<Overview Diagram>***
-- **Motivation**
-	- *\<explanation in text form>*
-- **Quality and/or Performance Features**
-	- *\<explanation in text form>*
-- **Mapping of Building Blocks to Infrastructure**
-	- *\<description of the mapping>*
+	- ### *\<Infrastructure Element X>*
+		- ***\<Overview Diagram>***
+		- **Motivation**
+			- *\<explanation in text form>*
+		- **Quality and/or Performance Features**
+			- *\<explanation in text form>*
+		- **Mapping of Building Blocks to Infrastructure**
+			- *\<description of the mapping>*
