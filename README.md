@@ -1,2 +1,8 @@
-- Arc42 EN With Help for Logseq
-  This is a fork of https://github.com/arc42/arc42-template for https://logseq.com/
+- This is a fork of the [Arc42 8.0 EN Template](https://github.com/arc42/arc42-template) for [Logseq](https://logseq.com/), adapted to the Markdown supported by Logseq.
+- Initialization
+	- Checkout or download the project as zip.
+	- Copy/Unzip the files to a directory
+	- Open Logseq, open graph menu, select "Add new graph" and choose the previous directory.
+- Usage
+	- Read the ==Hints== in [[arc42 Template 8.0 EN]]
+	-
