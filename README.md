@@ -5,4 +5,3 @@
 	- Open Logseq, open graph menu, select "Add new graph" and choose the previous directory.
 - Usage
 	- Read the ==Hints== in [[arc42 Template 8.0 EN]]
-	-
